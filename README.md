@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, there! I'm Bruna 👋
 
-<!--
-**brunafleitec/brunafleitec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+I'm a student of Systems Analysis and Development at PUC/GO and I'm part of the Rocketseat platform web development learning programs.
 
-Here are some ideas to get you started:
+### Current stack
+- 👩🏽‍💻 Main language: `JavaScript`
+- 🚀 Learning: `Java`
+- ✨ Front-end: `HTML5`, `CSS3`, `JavaScript`, `ReactJS`
+- 📡 Back-end: `NodeJS`
+- 🎨 Layout design: `Figma`
+- 🗃️ Version code control: `Git & GitHub`
+- 🔧 Tools: `VSCode`, `Eclipse`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+- 📬 E-mail: brunafleitec@gmail.com
+- 👥 [LinkedIn](https://linkedin.com/in/brunafleitec)
