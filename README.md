@@ -1,7 +1,7 @@
 ## Hi, there! I'm Bruna 👋
 
 ### About
-I'm a student of Systems Analysis and Development at PUC/GO and I'm part of the Rocketseat platform web development learning programs.
+I'm a student of Systems Analysis and Development at PUC/GO.
 
 ### Current stack
 - 👩🏽‍💻 Main language: `JavaScript`
