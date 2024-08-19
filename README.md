@@ -1,11 +1,7 @@
 ## Hi, there! I'm Bruna 👋
 
-### About
-I'm a student of Systems Analysis and Development at PUC/GO.
-
 ### Current stack
-- 👩🏽‍💻 Main language: `JavaScript`
-- 🚀 Learning: `TypeScript`
+- 👩🏽‍💻 Main language: `JavaScript`, `TypeScript`
 - ✨ Front-end: `HTML5`, `CSS3`, `JavaScript`, `ReactJS`
 - 📡 Back-end: `NodeJS`
 - 🎨 Layout design: `Figma`
